@@ -63,11 +63,6 @@ Here, you will find our documentation on Trello. However, here’s the specific 
 Our project is deployed on __Vercel__. Feel free to interact with it whenever you like:
    [Vercel Deploy](https://macedonian.vercel.app)
 
-## GitHub
-
-And of course, the __GitHub__ repository for our project:
-   [GitHub Repository](https://github.com/franccoina/Macedonia)
-
 <br>
 
 --------------------------------------------------------------------------------------------------------
