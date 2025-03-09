@@ -1,8 +1,0 @@
-{
-  "build": {
-    "command": "npm install"
-  },
-  "deploy": {
-    "startCommand": "json-server --watch db.json --port $PORT"
-  }
-}
