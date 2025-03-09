@@ -7,7 +7,7 @@ server.use(middlewares);
 server.use(router);
 
 // Usar el puerto de Railway o el 3000 por defecto
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 8080;
 server.listen(PORT, () => {
     console.log(`JSON Server is running on port ${PORT}`);
 });
