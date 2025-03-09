@@ -1,15 +1,14 @@
 <div align="center">
-  <img style="filter: brightness(0.8)" src="./macedonia.webp" alt="Macedonia-Logotype" width="100%" />
+  <img style="filter: brightness(0.8)" src="./macedonia.webp" alt="Macedonia-Logotype" width="100%" /><br><br>
+  <i>Dev Repository *</i>
 </div>
 
-<br>
+<br><br>
 
 # Macedonian Railway Database
-JSON Database with Railway for the Collaborative Project Macedonia. To view the project, visit our official project repository at [GitHub Repository](https://github.com/franccoina/Macedonia).
+JSON Database with Railway for the Collaborative Project __Macedonia__. To view the project, visit our Official Project Repository at [GitHub Repository](https://github.com/franccoina/Macedonia).
 
---------------------------------------------------------------------------------------------------------
-
-Welcome to our Exclusive Restaurant Website project, __Macedonia__. This website allows owners of exclusive restaurants to publish information about their establishments to attract new customers. Users of the site can explore a list of exclusive restaurants, view details such as the name, description, and location, and most importantly, make reservations at these places. On the other hand, if they are restaurant owners, they can publish and manage information about their establishments.
+This website allows owners of exclusive restaurants to publish information about their establishments to attract new customers. Users of the site can explore a list of exclusive restaurants, view details such as the name, description, and location, and most importantly, make reservations at these places. On the other hand, if they are restaurant owners, they can publish and manage information about their establishments.
 
 ## Why Macedonia?
 
@@ -61,12 +60,11 @@ Here, you will find our documentation on Trello. However, here’s the specific 
 Our project is deployed on __Vercel__. Feel free to interact with it whenever you like:
    [Vercel Deploy](https://macedonian.vercel.app)
 
-## GitHub
-
-And of course, the GitHub repository for our project:
-   [GitHub Repository](https://github.com/franccoina/Macedonia)
+<br>
 
 --------------------------------------------------------------------------------------------------------
+
+<br>
 
 <div align="center">
    <em>
