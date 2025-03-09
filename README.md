@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="filter: brightness(0.8)" src="./logo/logo-macedonia.webp" alt="Macedonia-Isotype" width="100%" />
+  <img style="filter: brightness(0.8)" src="./logo/logo-macedonia.webp" alt="Macedonia-Logotype" width="100%" />
 </div>
 
 <br>
@@ -68,9 +68,9 @@ And of course, the GitHub repository for our project:
 
 --------------------------------------------------------------------------------------------------------
 
-<br>
 <div align="center">
-     <em>We thank you very much for visiting our loved project.</strong></em><br>
-        <em>Greetings from <strong>Macedonia Team.</strong></em>
+   <em>
+      <strong>2024 Macedonia, Inc.</strong><br>
+      © All rights reserved.
+      </em>
 </div>
-<br>
