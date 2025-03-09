@@ -8,7 +8,7 @@
 # Macedonian Railway Database
 JSON Database with Railway for the Collaborative Project __Macedonia__. To view the project, visit our Official Project Repository at [GitHub Repository](https://github.com/franccoina/Macedonia).
 
-This website allows owners of exclusive restaurants to publish information about their establishments to attract new customers. Users of the site can explore a list of exclusive restaurants, view details such as the name, description, and location, and most importantly, make reservations at these places. On the other hand, if they are restaurant owners, they can publish and manage information about their establishments.
+This website allows owners of __exclusive restaurants__ to publish information about their establishments to attract new customers. Users of the site can explore a list of exclusive restaurants, view details such as the name, description, and location, and most importantly, make reservations at these places. On the other hand, if they are restaurant owners, they can publish and manage information about their establishments.
 
 ## Why Macedonia?
 
@@ -28,12 +28,15 @@ __Macedonia__ has been created to address the need for accessible information ab
 
 ## Tech stack
 
-- JavaScript, HTML, SCSS, Bootstrap 5, Vite, Json-server
+- JavaScript, HTML, SCSS, Bootstrap 5, Vite, Railway (JSON Database)
 
-## Producers, Developers, and Designers
+## Producers
 
 - David Francisco Blandón Mena
-- Nicolas Martinez Cardona
+   - franccoina
+<br>
+- Nicolás Martínez Cardona
+   - NicolasMC07
 
 ## Collaborators 
 
@@ -42,12 +45,12 @@ __Macedonia__ has been created to address the need for accessible information ab
 
 ## Mockup
 
-Here, you can view our mockup, uploaded to Figma with as much dedication as possible: 
+Here, you can view our mockup, uploaded to __Figma__ with as much dedication as possible: 
     [Figma Mockup](https://www.figma.com/design/kGQQ7ULIBHGz6ZwAqmHNuS/alphaTeam.js-Mockup?node-id=0-1&t=Rl0jGX1EOYvkrmQ2-1)
 
 ## Task Management
 
-Here, you can see how the work was distributed and managed throughout this project, using the Trello manager: 
+Here, you can see how the work was distributed and managed throughout this project, using the __Trello__ manager: 
     [Trello Board](https://trello.com/invite/b/uarObmdb/ATTIe73fe669a2a9871931da8c75d526b90eC19F5406/alphateamjs)
 
 ## Documentation
@@ -59,6 +62,11 @@ Here, you will find our documentation on Trello. However, here’s the specific 
 
 Our project is deployed on __Vercel__. Feel free to interact with it whenever you like:
    [Vercel Deploy](https://macedonian.vercel.app)
+
+## GitHub
+
+And of course, the __GitHub__ repository for our project:
+   [GitHub Repository](https://github.com/franccoina/Macedonia)
 
 <br>
 
