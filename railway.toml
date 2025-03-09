@@ -1,2 +1,2 @@
 [service]
-start = "json-server --watch db.json --port $PORT"
+start = "node server.js"
