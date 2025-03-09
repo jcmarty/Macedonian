@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="filter: brightness(0.8)" src="./logo/logo-macedonia.webp" alt="Macedonia-Logotype" width="100%" />
+  <img style="filter: brightness(0.8)" src="./macedonia.webp" alt="Macedonia-Logotype" width="100%" />
 </div>
 
 <br>
